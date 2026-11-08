@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.build-venv/
+build/
+dist/
+installer/
+installer_assets/*.exe
+bin/*.exe
+*.aria2
+*.db
+*.sqlite3
+*.log
